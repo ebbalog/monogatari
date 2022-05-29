@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+img {
+    max-width:800px;
+    max-height: auto;
+}
+
+p {
+    font-size: 22px;
+}
