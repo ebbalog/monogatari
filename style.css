@@ -202,3 +202,17 @@ a {
 #wrapper {
     margin: 0 auto;
 }
+
+.but {
+    background-color: black;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: -50px;
+    margin-left: 670px;
+    margin-right: 670px;
+
+}
+
+.but-text {
+    color: black;
+}
